@@ -1,4 +1,4 @@
-<h4 align="center">I like listening to music when I code 🎧</h4>
+<h3 align="center">I like listening to music when I code 🎧</h3>
 
 <p align="center">
   <a href="https://lqbach.vercel.app/now-playing?open">
