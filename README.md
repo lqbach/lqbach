@@ -1,4 +1,4 @@
-<h2 align="center">My Spotify Activity 🎧</h2>
+<h4 align="center">I like listening to music when I code 🎧</h4>
 
 <p align="center">
   <a href="https://lqbach.vercel.app/now-playing?open">
